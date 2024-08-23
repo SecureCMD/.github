@@ -1,1 +1,3 @@
-# .github
+# SecureCMD
+
+in construction :)
